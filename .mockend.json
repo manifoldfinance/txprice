@@ -1,0 +1,10 @@
+{
+	"history": {
+		"date": "string",
+		"blockNum": "int",
+		"fast": "int",
+		"fastest": "int",
+		"safeLow": "int",
+		"average": "int"
+	}
+}
